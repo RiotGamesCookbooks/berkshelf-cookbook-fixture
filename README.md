@@ -1,5 +1,7 @@
 # berkshelf-cookbook-fixture cookbook
 
+A fixture cookbook for Berkshelf tests
+
 # Requirements
 
 # Usage
@@ -10,4 +12,4 @@
 
 # Author
 
-Author:: Michael D. Ivey (<ivey@gweezlebur.com>)
+Author:: Michael D. Ivey (<michael.ivey@riotgames.com>)
